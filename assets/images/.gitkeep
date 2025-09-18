@@ -1,0 +1,32 @@
+# Images Directory
+
+This directory contains optimized images for the portfolio website.
+
+## Required Images
+
+### Profile Images
+- `profile-photo.jpg` - Professional headshot (300x300px, optimized)
+- `favicon.png` - Website favicon (32x32px)
+
+### Portfolio Images
+- `portfolio/findahotell-project.jpg` - FindaHotell case study image
+- `portfolio/insurance-analytics.jpg` - Insurance data analysis project
+- `portfolio/financial-modeling.jpg` - Financial modeling project
+
+## Image Optimization Guidelines
+
+1. **Format**: Use WebP for modern browsers, JPEG for fallback
+2. **Compression**: Optimize for web (80-85% quality)
+3. **Dimensions**: 
+   - Hero images: Max 1920px wide
+   - Portfolio images: 800x600px
+   - Profile photo: 300x300px
+4. **Alt text**: Always include descriptive alt text
+5. **Lazy loading**: Implemented for performance
+
+## Tools for Optimization
+
+- TinyPNG/TinyJPG for compression
+- Squoosh.app for format conversion
+- ImageOptim for batch optimization
+- Online converters for WebP format
