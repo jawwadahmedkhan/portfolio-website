@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jawwadahmedkhan.github.io/portfolio-website/</loc>
+        <lastmod>2025-09-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://jawwadahmedkhan.github.io/portfolio-website/index.html</loc>
+        <lastmod>2025-09-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://jawwadahmedkhan.github.io/portfolio-website/portfolio/findahotell-case-study.html</loc>
+        <lastmod>2025-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://jawwadahmedkhan.github.io/portfolio-website/portfolio/insurance-data-analysis.html</loc>
+        <lastmod>2025-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://jawwadahmedkhan.github.io/portfolio-website/portfolio/financial-data-modeling.html</loc>
+        <lastmod>2025-09-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
