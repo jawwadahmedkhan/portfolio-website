@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://jawwadahmedkhan.github.io/portfolio-website/sitemap.xml
+
+# Allow crawling of all content
+Allow: /assets/
+Allow: /portfolio/
+
+# Prevent crawling of specific files if needed
+# Disallow: /private/
+# Disallow: /temp/
+
+# Crawl delay (optional)
+# Crawl-delay: 1
